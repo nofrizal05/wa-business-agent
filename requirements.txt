@@ -1,0 +1,2 @@
+# Tidak ada dependensi eksternal — cukup Python 3.11+ (stdlib saja).
+# (Tidak ada yang perlu di-install.)
